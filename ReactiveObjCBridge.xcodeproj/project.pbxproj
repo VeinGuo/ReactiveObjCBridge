@@ -1099,6 +1099,7 @@
 				INFOPLIST_FILE = ReactiveObjCBridge/Info.plist;
 				MODULEMAP_FILE = "$(SRCROOT)/ReactiveObjCBridge/module.modulemap";
 				SWIFT_VERSION = 5.0;
+				VALID_ARCHS = "$(ARCHS_STANDARD)";
 			};
 			name = Debug;
 		};
@@ -1116,6 +1117,7 @@
 				INFOPLIST_FILE = ReactiveObjCBridge/Info.plist;
 				MODULEMAP_FILE = "$(SRCROOT)/ReactiveObjCBridge/module.modulemap";
 				SWIFT_VERSION = 5.0;
+				VALID_ARCHS = "$(ARCHS_STANDARD)";
 			};
 			name = Release;
 		};
@@ -1254,6 +1256,7 @@
 				INFOPLIST_FILE = ReactiveObjCBridge/Info.plist;
 				MODULEMAP_FILE = "$(SRCROOT)/ReactiveObjCBridge/module.modulemap";
 				SWIFT_VERSION = 5.0;
+				VALID_ARCHS = "$(ARCHS_STANDARD)";
 			};
 			name = Profile;
 		};
@@ -1344,6 +1347,7 @@
 				INFOPLIST_FILE = ReactiveObjCBridge/Info.plist;
 				MODULEMAP_FILE = "$(SRCROOT)/ReactiveObjCBridge/module.modulemap";
 				SWIFT_VERSION = 5.0;
+				VALID_ARCHS = "$(ARCHS_STANDARD)";
 			};
 			name = Test;
 		};
